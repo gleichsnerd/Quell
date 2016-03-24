@@ -1,0 +1,13 @@
+/* CSS declarations go here */
+*.login-link-text {
+	color: #777777;
+
+}
+
+*.login-link-and-dropdown-list {
+	color: #777777;
+	position: relative;
+	display: block;
+	padding: 10px 15px;
+
+}
